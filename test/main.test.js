@@ -10,5 +10,12 @@ describe('pathing', () => {
         expect(res.text).toEqual(expect.stringContaining('Colors'));
       });
   });
+  // it('path /red returns red detail', () => {
+  //   return request(app)
+  //     .get('/red')
+  //     .then(res => {
+  //       expect(res.text).toEqual(expect.stringContaining('red'));
+  //     });
+  // });
 })
 ;
