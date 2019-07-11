@@ -1,0 +1,32 @@
+.red {
+  color: red;
+}
+
+.orange {
+  color: orange;
+}
+
+.yellow {
+  color: yellow;
+}
+
+.green {
+  color: green;
+}
+
+.blue {
+  color: blue;
+}
+
+.purple {
+  color: purple
+}
+
+li {
+  list-style: none;
+}
+
+body {
+  text-align: center;
+  margin: 0 auto;
+}
