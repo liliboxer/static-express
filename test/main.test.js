@@ -17,5 +17,4 @@ describe('pathing', () => {
         expect(res.text).toEqual(expect.stringContaining('Color'));
       });
   });
-})
-;
+});
